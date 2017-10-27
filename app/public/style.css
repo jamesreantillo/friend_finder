@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/08/c6/94/08c6940580c99e933e2547e5c4fdffa4.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    opacity: .80;
+    margin-top: 20px;
+    background: #6F263D;
+    color: white;
+}
+
+.panel {
+    opacity: .80;
+    margin-top: 20px;
+    background: #041E42;
+    color: #FFB81C;
+}
+
+
+.modal-title {
+    text-align: center;
+
+}
+
+#matchImg {
+    display: block;
+    margin: auto;
+}
+
+#matchName {
+    text-align: center;
+}
+
+.modal-body {
+    background: #041E42;
+    color: white;
+}
+
+.modal-header {
+    background: #6F263D;
+    color: #FFB81C;
+}
+
+.modal-footer {
+    background: #6F263D
+}
+
+
+
+
+
+
+
+
+
+
+
