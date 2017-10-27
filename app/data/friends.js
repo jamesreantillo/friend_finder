@@ -1,4 +1,14 @@
+
+
 var friends = [ {
+  "name" : "Steph Curry",
+  "photo" : "https://usatftw.files.wordpress.com/2017/06/gty_695382404.jpg?w=1000&h=600&crop=1",
+  "scores" : [1,1,1,1,1,1,1,1,1,1]
+}, {
+  "name" : "Jr Smith",
+  "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw_0rmpTQyj2nmkWTTVeb_r2gtYpAi1X6oQaTct2uaiyRK72lAA",
+  "scores" : [2,2,2,2,2,2,2,2,2,2]
+}, {
   "name" : "Lebron James",
   "photo" : "https://b.fssta.com/uploads/application/nba/players/214152.vresize.350.425.medium.45.png",
   "scores" : [5,5,5,5,5,5,5,5,5,5]
